@@ -1,0 +1,51 @@
+[{
+    "id": "frank",
+    "name": "Frank Rosenhart",
+    "function": "INTERACTIVE DIRECTOR",
+    "description": "Frank is co-founder of Chunk and UX Director. He loves discussions about user needs. Is proud of his 2 sons, loves basketball and snowboarding. This dude makes sense."
+}, {
+    "id": "martijn",
+    "name": "Martijn de Beijer",
+    "function": "CREATIVE DIRECTOR & FOUNDER",
+    "description": "Martijn is co-founder of Chunk and Creative Director. Loves playing squash and the aquatic life. Starts discussions about evolving brands in this digital era. He’s the IJburg Man, finding balance between work and family."
+}, {
+    "id": "karin",
+    "name": "Karin Hallebeek",
+    "function": "ACCOUNT DIRECTOR",
+    "description": "Karin leads the team of producers and is both experienced and young at heart. A perfect and priceless combination. Is allergic to nuts, dishonesty and attitude. Loves the family life, bio-foods and the colorful city of Amsterdam."
+}, {
+    "id": "marinka",
+    "name": "Marinka Fontijn",
+    "function": "PRODUCER",
+    "description": "Marinka is a killer producer and always very thorough in her approach. She loves eating food in the city, sunday morning coffee and her precious Netflix account. Gets annoyed when people look at screens during dinner, diet products and flat tyres in the rain."
+}, {
+    "id": "charlotte",
+    "name": "Charlotte Verhoeven",
+    "function": "OFFICE MANAGER",
+    "description": "Charlotte makes sure everything runs smooth around our office. Summer parties, lectures and big client meetings can only happen because of her. Loves backpacking and cruising on the Amsterdam canals but hates her allergy for milk."
+}, {
+    "id": "bob",
+    "name": "Bob Hooyveld",
+    "function": "SENIOR DEVELOPER",
+    "description": "Bob advises clients and develops online experiences. He loves the color grey, clown shoes and The IJscuypje. Some say his brain is built from lighting speed bites and bytes, he’s that good. Gets the yikes from ice skating and driving a car."
+}, {
+    "id": "merter",
+    "name": "Merter Inci",
+    "function": "DESIGN/CREATIVE",
+    "description": "Merter loves simple ideas and design. They’re hardest to come by and most valuable. He is our Kakashi Sensei, loving the simplicity in complicated pieces of art. Having is own unique biological clock and says no to Winx Club, because of his younger sister."
+}, {
+    "id": "leontien",
+    "name": "Leontien Teunen",
+    "function": "FINANCE MANAGER",
+    "description": "Leontien manages Chunk’s finances and one of the sharpest minds around. She loves family and sunny Curacao. Disliking the winter makes this seem logical, but how to explain her aversion against cooking and cats? Only she knows."
+}, {
+    "id": "florine",
+    "name": "Florine Kerkmeer",
+    "function": "SENIOR DESIGN/CREATIVE",
+    "description": "Florine mixes creativity and design at Chunk since 2008 and is a key creative player for almost all our accounts. She loves going to the movies on sunday morning and visiting la Coupole in Paris, being the wine lover she is."
+}, {
+    "id": "karen",
+    "name": "Karen Bergs",
+    "function": "PRODUCER",
+    "description": "Karen sees everything, learns fast and finds the best solution. She takes other people into account and hopes others do the same. Loves food. All of it. Wine too. Mix this with an unplanned citytrip and she’s as happy as can be."
+}]
